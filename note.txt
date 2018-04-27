@@ -1,0 +1,11 @@
+                              TIC TAC TOE
+
+
+FOR COMPILE   
+$ gcc -o tic tic.c -lglut -lGL -lGLU
+
+FOR RUN      
+$ ./tic
+
+
+
